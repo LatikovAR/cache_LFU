@@ -7,7 +7,7 @@
 #include <utility>
 #include <iostream>
 
-const int FREQ_SIZE = 20;
+const int FREQ_SIZE = 1000;
 
 template <typename T>
 class cache {
